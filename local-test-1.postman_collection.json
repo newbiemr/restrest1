@@ -9,7 +9,18 @@
 			"name": "zort1",
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/zort",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"zort"
+					]
+				}
 			},
 			"response": []
 		}
